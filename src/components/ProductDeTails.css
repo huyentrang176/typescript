@@ -1,0 +1,11 @@
+p img {
+  border: 2px solid white;
+}
+
+p img:hover {
+  border: 2px solid red;
+  cursor: pointer;
+}
+div {
+  float: right;
+}
